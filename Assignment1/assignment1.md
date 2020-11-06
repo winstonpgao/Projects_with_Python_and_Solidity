@@ -2,14 +2,14 @@
 
 ## Major Canadian Fintech Companies in Real Estate Industry:
 According to PWC’s Canadian Fintech Market Map, there are six major players in the domain of Real Estate: 
-![](http://leon/assignments_peng_gao/assignment1/pic/a0.png)
+![1](http://leon/assignments_peng_gao/assignment1/pic/a0.png)
 In the domain of Real Estate Services and Landlord Services, utilizing technologies, to create value to the value chain and improving customer satisfaction, has become exceedingly popular over the last few years. For example, Properly builds APP that facilitates short-term rental property management in real-time, specifically, to ensure quality standards of cleaning and disinfection are met at each property. And Naborly focus on providing tenant screening services for landlords and offering credit facilities to tenants. 
 
 ## Naborly Overview:
 Naborly, a start-up company, provides state-of-art property management solutions to landlords through using AI to comprehensively screen tenants, providing tenant assessments as well as credit reports, and facilitating loan in case of rental payment default. The company was funded by three core funders: Anastasia Fox, Dylan Lenz and Zed Robinson in 2014, which has raised capital from a number of well-respected venture capital firms including First Round Capital, Y Combinator, SUSA Ventures, Assurant, and Joe Montana. 
 
 *Table1: Funding Rounds:*
-![](http://leon/assignments_peng_gao/assignment1/pic/a.png)
+![2](http://leon/assignments_peng_gao/assignment1/pic/a.png)
 
 ## Background:
 ### The Issues:
@@ -47,7 +47,7 @@ Comparing to other startups who provides similar services, Naborly also offers r
 According to the Naborly’s estimation, it is generating revenue about an average $12000 per day, and about 150 new landlords daily. This clearly shows the great potential of Fintech and Landlord Services. The company is now having fifteen employees, and positioning around at a middle tire level comparing to other startups in the Real Estate Industry (*as shown in graph1*). 
 
 *Graph1: Market Position of Naborly:*
-![](http://leon/assignments_peng_gao/assignment1/pic/a1.png)
+![3](http://leon/assignments_peng_gao/assignment1/pic/a1.png)
 
 ### Recommendations:
 Naborly aims to facilitate tenant screening process and to minimize the risks for landlords by leveraging the power of technology and data. However, for improving the quality of property management services, Naborly might have overlooked the needs of tenants. Specifically, the needs of interaction with the property owner or mangers. For example, an applicant might need more information about the property, a tenant might need a prompt response from landlords in regarding to property maintenance, and some tenants might need the landlords to provide feedback and endorsements that can be used in their profile to apply to future rentals. It would be recommended to have an online dashboard or APP that allows interaction between tenants and landlords. And also, it could be beneficial to create a Robo-advising system that enables 24/7 property management services. 

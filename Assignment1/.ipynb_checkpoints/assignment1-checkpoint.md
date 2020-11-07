@@ -5,8 +5,6 @@ According to PWC’s Canadian Fintech Market Map, there are six major players in
 
 ![](pic/a0.png)
 
-![](https://github.com/leongaoleon/Assignments_Peng_Gao/blob/main/Assignment1/pic/a.PNG?raw=true)
-
 In the domain of Real Estate Services and Landlord Services, utilizing technologies, to create value to the value chain and improving customer satisfaction, has become exceedingly popular over the last few years. For example, Properly builds APP that facilitates short-term rental property management in real-time, specifically, to ensure quality standards of cleaning and disinfection are met at each property. And Naborly focus on providing tenant screening services for landlords and offering credit facilities to tenants. 
 
 ## Naborly Overview:

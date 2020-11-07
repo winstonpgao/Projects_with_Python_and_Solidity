@@ -3,9 +3,7 @@
 ## Major Canadian Fintech Companies in Real Estate Industry:
 According to PWC’s Canadian Fintech Market Map, there are six major players in the domain of Real Estate: 
 
-![](pic/a0.png)
-
-![](https://github.com/leongaoleon/Assignments_Peng_Gao/blob/main/Assignment1/pic/a.PNG?raw=true)
+![](https://github.com/leongaoleon/Assignments_Peng_Gao/blob/main/Assignment1/pic/a0.PNG?raw=true)
 
 In the domain of Real Estate Services and Landlord Services, utilizing technologies, to create value to the value chain and improving customer satisfaction, has become exceedingly popular over the last few years. For example, Properly builds APP that facilitates short-term rental property management in real-time, specifically, to ensure quality standards of cleaning and disinfection are met at each property. And Naborly focus on providing tenant screening services for landlords and offering credit facilities to tenants. 
 
@@ -14,7 +12,7 @@ Naborly, a start-up company, provides state-of-art property management solutions
 
 *Table1: Funding Rounds:*
 
-![](pic/a.png)
+![](https://github.com/leongaoleon/Assignments_Peng_Gao/blob/main/Assignment1/pic/a.PNG?raw=true)
 
 ## Background:
 ### The Issues:
@@ -54,7 +52,7 @@ According to the Naborly’s estimation, it is generating revenue about an avera
 
 *Graph1: Market Position of Naborly:*
 
-![](pic/a1.png)
+![](https://github.com/leongaoleon/Assignments_Peng_Gao/blob/main/Assignment1/pic/a1.PNG?raw=true)
 
 ### Recommendations:
 Naborly aims to facilitate tenant screening process and to minimize the risks for landlords by leveraging the power of technology and data. However, for improving the quality of property management services, Naborly might have overlooked the needs of tenants. Specifically, the needs of interaction with the property owner or mangers. For example, an applicant might need more information about the property, a tenant might need a prompt response from landlords in regarding to property maintenance, and some tenants might need the landlords to provide feedback and endorsements that can be used in their profile to apply to future rentals. It would be recommended to have an online dashboard or APP that allows interaction between tenants and landlords. And also, it could be beneficial to create a Robo-advising system that enables 24/7 property management services. 

@@ -59,7 +59,7 @@ In addition, the fastforward function has been utilised to manipulate current ti
 
 ### Deploy the contracts to a live Testnet
 
-After switching MetaMask to Ropsten, the contracts has been deployed, and  their deployed addresses are presented below. You can explore them on blockchain. 
+Live Test Net Ropsten and Contract Addresses:
 
 * Associate Profit Spliter: 0x68BF27dBb630a3818E4d488C86AeB436F63E1989
 * Tiered Profit Spliter: 0xDC83D8201964e45b74E504481Dc1306f99ab5d26 

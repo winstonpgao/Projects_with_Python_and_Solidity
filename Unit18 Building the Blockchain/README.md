@@ -4,19 +4,6 @@ The blockchain domain is rapidly changing.  Even those in a highly technical rol
 
 This homework will be a two-part series in which I will first create a case study on a Canadian FinTech blockchain company. Then, you wil develop your very own blockchain.
 
-## Blockchain Case Study
-
-In this part, [Blockstream](Blockchain_Case_Study/Blockstream.md), a Canadian Bitcoin Blockchain company, has been studied. 
-
-In this research, you will read:
-
-* Background of Blockstream
-
-* Current services and products it provides
-
-* The financial and global impact 
-
-* The concerns as well as criticism around Blockstream sidechain and mining service
 
 ## Proof of Authority Development Chain
 
@@ -33,7 +20,7 @@ A testing network called **leongaoleon** is created, using POA consensus algo. A
 ![2_genesis block.PNG](images/2_genesis_block.PNG)
 
 Step 3: Initializing the nodes:
-![3_nodes_initialization.PNG](images/3_nodes_initialization.PNG.PNG)
+![3_nodes_initialization.PNG](images/3_nodes_initialization.PNG)
 
 Step4: Creating custom node (node3):
 ![4_node3.PNG](images/4_node3.PNG)

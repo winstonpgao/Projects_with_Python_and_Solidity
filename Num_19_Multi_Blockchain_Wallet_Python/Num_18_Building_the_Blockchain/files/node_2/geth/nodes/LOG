@@ -1,0 +1,35 @@
+=============== Apr 11, 2021 (AEST) ===============
+05:51:44.575845 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:51:44.658146 db@open opening
+05:51:44.659141 version@stat F·[] S·0B[] Sc·[]
+05:51:44.690630 db@janitor F·2 G·0
+05:51:44.690630 db@open done T·32.4837ms
+06:01:25.787865 db@close closing
+06:01:25.788373 db@close done T·508µs
+=============== Apr 11, 2021 (AEST) ===============
+06:01:30.324339 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:01:30.324852 version@stat F·[] S·0B[] Sc·[]
+06:01:30.324852 db@open opening
+06:01:30.325386 journal@recovery F·1
+06:01:30.326956 journal@recovery recovering @1
+06:01:30.372779 memdb@flush created L0@2 N·7233 S·146KiB "loc..seq,v7":"version,v1"
+06:01:30.374617 version@stat F·[1] S·146KiB[146KiB] Sc·[0.25]
+06:01:30.430589 db@janitor F·3 G·0
+06:01:30.430589 db@open done T·105.2145ms
+06:15:58.685171 db@close closing
+06:15:58.685171 db@close done T·0s
+=============== Apr 11, 2021 (AEST) ===============
+06:16:25.730558 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:16:25.730558 version@stat F·[1] S·146KiB[146KiB] Sc·[0.25]
+06:16:25.730558 db@open opening
+06:16:25.730558 journal@recovery F·1
+06:16:25.732574 journal@recovery recovering @3
+06:16:25.792106 memdb@flush created L0@5 N·10540 S·219KiB "loc..seq,v7237":"n:\xff..ong,v7313"
+06:16:25.793895 version@stat F·[2] S·365KiB[365KiB] Sc·[0.50]
+06:16:25.873235 db@janitor F·4 G·0
+06:16:25.873235 db@open done T·142.6772ms
+06:16:25.898300 table@compaction L0·2 -> L1·0 S·365KiB Q·17776
+06:16:25.951545 table@build created L1@8 N·6351 S·215KiB "loc..seq,v7237":"version,v1"
+06:16:25.951545 version@stat F·[0 1] S·215KiB[0B 215KiB] Sc·[0.00 0.00]
+06:16:25.986830 table@compaction committed F-1 S-149KiB Ke·0 D·11422 T·88.5297ms
+06:16:25.987424 table@remove removed @2

@@ -1,4 +1,4 @@
-# Multi-Blockchain Wallet in Python
+# Multi-Blockchain Wallets in Python
 
 ## PHP Install Guide
 PHP must be installed on your operating system (any version, 5 or 7, not version8). Don't worry, you will *not* need to know any PHP.

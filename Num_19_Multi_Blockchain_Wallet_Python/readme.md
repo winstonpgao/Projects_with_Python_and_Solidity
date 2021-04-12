@@ -5,7 +5,7 @@ PHP must be installed on your operating system (any version, 5 or 7, not version
 
 The `hd-wallet-derive` library is written in the PHP language; therefore, you will be required to first set up PHP on your machines before installing and then running the `hd-wallet-derive` library.
 
-<details><summary>Environment Setup in Microsoft Windows Operating System</summary>
+**Environment Setup in Microsoft Windows Operating System:**
 
 For those with a **Windows operating system**, execute the following steps:
 
@@ -45,7 +45,7 @@ For those with a **Windows operating system**, execute the following steps:
 
 With the latest version of PHP installed on our machines, we can now proceed to the installation of the `hd-wallet-derive` library.
 
-<details><summary>Installation</summary>
+**Installation:**
 
 1. Begin by opening a fresh terminal. Windows users **must** open their terminal as administator as follows:
 
@@ -65,9 +65,9 @@ With the latest version of PHP installed on our machines, we can now proceed to 
 
 3. You should now have a folder called `hd-wallet-derive` containing the PHP library!
 
-</details>
 
-<details><summary>Verification</summary>
+
+**Verification:**
 
 1. Run the command to `cd` in your `hd-wallet-derive` folder.
 
@@ -77,8 +77,6 @@ With the latest version of PHP installed on our machines, we can now proceed to 
     ./hd-wallet-derive.php -g --key=xprv9tyUQV64JT5qs3RSTJkXCWKMyUgoQp7F3hA1xzG6ZGu6u6Q9VMNjGr67Lctvy5P8oyaYAL9CAWrUE9i6GoNMKUga5biW6Hx4tws2six3b9c --numderive=3 --preset=bitcoincore --cols=path,address --path-change
     ```
 
-</details> 
-<br>
 
 
 ## Other Dependencies
@@ -144,16 +142,16 @@ or one of the `node` keystore files.
 Use a [block explorer](https://tbtc.bitaps.com/) to watch transactions on the address.
 
 ![BTC.PNG](images/BTC.PNG)
-The confirmation shows about 0.00005 BTC has been sent from derived BTC account_one to account_two.
+**The confirmation shows about 0.00005 BTC has been sent from derived BTC account_one to account_two.**
 
 
 #### ETH:
 
-**Note: the unit used is Wei, whereas MyCrypto is using ETH**
+**Note: the unit used is Wei, whereas MyCrypto is using ETH.**
 ![Wei.png](images/Wei.png)
 
 ![ETH.png](images/ETH.png)
-The confirmation shows about 100 ETH has been sent from derived ETH account_one to account_two.
+**The confirmation shows about 100 ETH has been sent from derived ETH account_one to account_two.**
 
 
 

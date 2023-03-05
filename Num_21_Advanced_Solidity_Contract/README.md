@@ -4,10 +4,13 @@
 _People in Concert - Photo by [Josh Sorenson](https://www.pexels.com/@joshsorenson?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) | [Free License](https://www.pexels.com/license/)_
 
 
-## Background:
+## Demo:
 
-Your company has decided to crowdsale their PupperCoin token in order to help fund the network development.
-This network will be used to track dog breeding activity across the globe in a decentralized way, and allow humans to track the genetic trail of their pets. You have already worked with the necessary legal bodies and obtained the green light on creating a crowdsale open to the public. However, you are required to enable refunds if the crowdsale is successful and the goal is met, and you are only allowed to raise a maximum of 300 ether. The crowdsale will run for 24 weeks.
+Crowdsale of PupperCoin token for fund rasing to help fund the network development in across the globe in a decentralized way.
+This network will be used to track dog breeding activity across the globe in a decentralized way, and allow humans to track the genetic trail of their pets. 
+
+Target: To raise a maximum of 300 ether. The stimulated crowdsale will run for 24 weeks.
+Note: Refund function is enabled if  the crowdsale is successful and the goal is met.
 
 
 ## Files:

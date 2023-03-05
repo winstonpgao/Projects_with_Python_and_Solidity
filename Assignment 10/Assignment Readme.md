@@ -1,4 +1,4 @@
-# Hello Instructor! This is Assignment for Week 10.
+# Time Series & Regression Analysis with ARAM, ARIAM, and GARCH Models
 
 
 ## This Readme file has the Following Sections:

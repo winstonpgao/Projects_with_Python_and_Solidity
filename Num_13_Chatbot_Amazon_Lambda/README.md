@@ -1,11 +1,9 @@
-# Create and Deploy chatbot to Amazon Lambda
+# Create and Deploy Chatbot with Amazon Lambda
 
 ## Testing Example: Financial Planning for general users to interact with the chatbot App
 
 
-[![YouTube]]([https://youtu.be/NoqC6PsxA_U?t=444](https://www.youtube.com/shorts/PnaBODZeALE))
-
-
+[![Chatbot Demo: ](Images/2.PNG)]([https://youtu.be/NoqC6PsxA_U?t=105](https://youtube.com/shorts/PnaBODZeALE))
 
 
 

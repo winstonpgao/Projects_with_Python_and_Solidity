@@ -8,10 +8,10 @@ The model which fet with the data using only closing prices has **lower** loss o
 The model which fet with the data using only closing prices tracks **better** as shown in the graph two.
 
 **Graph one fit with FNG Values:**
-<br>![Graph one fit with FNG Values](1.png)
+<br>![Graph one fit with FNG Values](1.PNG)
 
 **Graph Two fit with Closing Prices:**
-<br>![Graph Two fit with Closing Prices](2.png)
+<br>![Graph Two fit with Closing Prices](2.PNG)
 
 
 ### Which window size works best for the model?

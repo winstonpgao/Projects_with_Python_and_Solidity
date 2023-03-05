@@ -1,6 +1,6 @@
 # Naborly, a Next-Generation Financial Services Firm Focused on the Rental Industry
 
-## Major Canadian Fintech Companies in Real Estate Industry:
+## Major Fintech Companies in Real Estate Industry:
 According to PWC’s Canadian Fintech Market Map, there are six major players in the domain of Real Estate: 
 
 ![](https://github.com/leongaoleon/Assignments_Peng_Gao/blob/main/Assignment1/pic/a0.PNG?raw=true)

@@ -1,4 +1,4 @@
-# Testing on - LSTM Stock Predictor
+# Unit 14 - LSTM Stock Predictor
  
 
 ### Which model has a lower loss?

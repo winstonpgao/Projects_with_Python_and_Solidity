@@ -3,5 +3,5 @@
 ## Testing Example: Financial Planning for general users to interact with the chatbot App
 
 
-[![Chatbot Demo: ](Chatbot.PNG)](https://youtu.be/7YoX_JK5aS4)
+[![Chatbot Demo: ](1.PNG)](https://youtu.be/7YoX_JK5aS4)
 

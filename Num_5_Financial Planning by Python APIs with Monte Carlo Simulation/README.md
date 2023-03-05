@@ -13,7 +13,7 @@
 
 ### Resources
 
-This homework will utilize two APIs:
+Utilized two APIs:
 
 * The **Alpaca Markets API** will be used to pull historical stocks and bonds information.  
     

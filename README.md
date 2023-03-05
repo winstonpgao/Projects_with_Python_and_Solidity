@@ -1,1 +1,1 @@
-# Practicce Small Projects
+### Practice Projects with Python, Blockchain Design and Solidity
